@@ -94,5 +94,3 @@ A: You can't anymore. Wowhead switched from Flash to WebGL (as they should) and 
 ## Special Thanks
 Said website with the red smiling rocket, for providing this beautifull website!
 Please do not reagard this project as blatant rip-off, rather as "We do really liked your presentation, but since time and content progresses, you are sadly no longer supplying the data we need".
-
-![uses badges](http://forthebadge.com/images/badges/uses-badges.svg)
